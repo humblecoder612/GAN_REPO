@@ -2,7 +2,7 @@
 > Generative Adversarial Network
 
 I would upload my all GAN projects which is generating synthethic data through ML/AI , I am interested in this concepts.
-So,I have learned basics on Fashion MNIST Data with some research.I am planning to generating Dog Images in my next GAN project and further.
+So,I have learned basics on Fashion MNIST Data with some research.I am planning to generate Dog Images in my next GAN project and further.
 
 ![](https://github.com/humblecoder612/GAN_REPO/blob/master/dcgan_demo.gif)
 
